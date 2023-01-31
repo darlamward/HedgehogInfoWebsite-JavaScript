@@ -1,0 +1,12 @@
+
+
+1.	How many hours did it take you to complete this assessment? 
+        Approximately 20 hours.
+2.	What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+        Youtube videos, lectures, notes, w3schools
+3.	Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+        I asked Devin some questions as he had some of the same issues.
+4.	Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+        I messaged for a couple questions but ultimately with to a help session.
+5.	Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+        I didn't find it too difficult but I did run upon some issues that needed to be fine tuned. I could solve another problem like this one with minimal difficulty.

@@ -1,0 +1,4 @@
+20230128	19:23:27	INFORMATION	/	the home page was visited.	17486f3a-5f20-49b3-b759-e14245468e61
+20230128	19:23:28	ERROR	/favicon.ico	a routing error occured for the /favicon.ico route.	fa89fe06-e2f7-4ecd-96be-8eff89b6f3ac
+20230128	19:23:50	INFORMATION	/about	the about page was visited.	dd1243c5-6dff-4b9e-85d6-5f1e44a6d379
+20230128	19:24:01	INFORMATION	/subscribe	the subscribe page was visited.	c1152881-a68b-44c3-8aa7-fcc8c61f95e5

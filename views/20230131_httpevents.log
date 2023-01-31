@@ -1,0 +1,184 @@
+20230131	14:24:17	INFORMATION	/index	the home page was visited.	1edc0edc-7065-4bf6-9fe6-31d5ea1d9bc6
+20230131	14:24:18	INFORMATION	/description	the description page was visited.	b401c143-d52d-408c-8e15-ab2825e6f3cb
+20230131	14:24:34	INFORMATION	/about	the about page was visited.	ad365e8c-076d-43a9-ad1a-2c42b4031e0d
+20230131	14:24:35	INFORMATION	/domestication	the domestication page was visited.	f0e3109f-db63-44e7-bdc9-6e68880cb1c7
+20230131	14:24:36	INFORMATION	/genus	the genus & species page was visited.	85e29961-385e-470a-a3e8-5b9f11217e72
+20230131	14:24:37	INFORMATION	/index	the home page was visited.	fc3cf302-93f9-4c9c-b6cd-5ecdc16b930d
+20230131	14:27:13	INFORMATION	/description	the description page was visited.	be3fb66b-70e3-4e2c-801f-9644f79f6c63
+20230131	14:27:24	INFORMATION	/about	the about page was visited.	200e5a81-d52f-4265-bd06-576b0d4d4c5d
+20230131	14:28:07	INFORMATION	/description	the description page was visited.	274e7898-2e1b-4dc1-815f-932c837c1cc6
+20230131	14:28:15	INFORMATION	/about	the about page was visited.	b3d1d289-97a8-46c7-b8e3-4bde51a48c70
+20230131	14:49:29	INFORMATION	/about	the about page was visited.	15094bc0-da57-49b8-bae3-945863474c05
+20230131	15:11:36	INFORMATION	/about	the about page was visited.	00fcd063-a0fd-4a93-85cc-c968bb41eab1
+20230131	15:11:36	INFORMATION	/domestication	the domestication page was visited.	5fa721da-35a7-4547-ad26-54eae084837b
+20230131	15:11:37	INFORMATION	/genus	the genus & species page was visited.	95b9c8db-3d1a-427d-bd75-c660884cd737
+20230131	15:11:38	INFORMATION	/index	the home page was visited.	7b5a20d0-721f-478f-b7e3-2b050378bae1
+20230131	15:11:40	INFORMATION	/description	the description page was visited.	5556df9f-71c2-47e6-b482-34cea9319378
+20230131	15:17:44	INFORMATION	/about	the about page was visited.	f1cace15-d4de-483c-941b-4036a776d84a
+20230131	15:26:44	INFORMATION	/about	the about page was visited.	e154fee8-76ad-4911-bf32-2d99795b16fe
+20230131	15:26:46	INFORMATION	/domestication	the domestication page was visited.	49ee7e0e-5a07-43ee-8fb9-242fd9653d82
+20230131	15:26:46	INFORMATION	/genus	the genus & species page was visited.	c2c7d7f7-4031-4b06-87ec-da8b4c1fdd90
+20230131	15:26:47	INFORMATION	/domestication	the domestication page was visited.	ff9d4bdb-0cd2-481f-bd6f-1ee9c84dcd06
+20230131	15:26:48	INFORMATION	/about	the about page was visited.	e1215c7f-0bef-4490-8272-2a3323a44bcf
+20230131	15:26:49	INFORMATION	/index	the home page was visited.	a1355041-a207-41c0-9a8b-27e3e74f63fe
+20230131	15:26:50	INFORMATION	/description	the description page was visited.	d1a9e665-b0a6-46ea-9565-6fb494195882
+20230131	15:28:27	INFORMATION	/index	the home page was visited.	805ba41d-269a-4860-94bf-c51066505fe6
+20230131	15:28:27	ERROR	/index.js	a routing error occured for the /index.js route.	b2ba0ac4-99d7-4c39-904a-ada7375da51f
+20230131	15:28:27	ERROR	/favicon.ico	a routing error occured for the /favicon.ico route.	ed7445bf-cc1c-4874-9e21-5f309e26eda7
+20230131	15:30:37	INFORMATION	/description	the description page was visited.	04eb8aef-f1e5-4a42-8968-899efc709358
+20230131	15:30:37	ERROR	/index.js	a routing error occured for the /index.js route.	55048a9c-b8b8-46c5-a43e-4a6f58ba579c
+20230131	15:30:37	ERROR	/audio/HEDGEHOG%20SOUNDS%20-%20Sound%20Effects%20[High%20Quality].mp3	a routing error occured for the /audio/HEDGEHOG%20SOUNDS%20-%20Sound%20Effects%20[High%20Quality].mp3 route.	a58577d4-dfe4-4f1e-9f56-c5557b42d124
+20230131	15:30:40	INFORMATION	/about	the about page was visited.	b0033c1d-6c47-4962-bdab-4a81962fbc81
+20230131	15:30:41	INFORMATION	/domestication	the domestication page was visited.	af394c31-20b3-4706-a2d1-91ae79930d39
+20230131	15:30:42	INFORMATION	/genus	the genus & species page was visited.	4ac0ccf0-da37-4423-9866-b299e1d84328
+20230131	15:30:43	INFORMATION	/index	the home page was visited.	7836a481-1a60-44c6-8d58-b98c54f96b25
+20230131	15:30:43	ERROR	/index.js	a routing error occured for the /index.js route.	d89be578-ca65-4f13-ba6c-aa1bf8526f82
+20230131	15:30:58	INFORMATION	/description	the description page was visited.	cf2541a2-2e88-45fa-bbbf-16a86a5ac139
+20230131	15:30:58	ERROR	/index.js	a routing error occured for the /index.js route.	3c31d452-9c4c-4005-9a90-a8af5e9c997e
+20230131	15:30:58	ERROR	/audio/HEDGEHOG%20SOUNDS%20-%20Sound%20Effects%20[High%20Quality].mp3	a routing error occured for the /audio/HEDGEHOG%20SOUNDS%20-%20Sound%20Effects%20[High%20Quality].mp3 route.	8975c543-9fd2-45fe-bdbe-3c43813204c5
+20230131	15:31:30	ERROR	/des	a routing error occured for the /des route.	d7c357a5-b2f8-4c0a-aaaf-6cb704572c9b
+20230131	15:31:30	ERROR	/index.js	a routing error occured for the /index.js route.	2d47f062-5ce7-4728-9bd6-8ea79bb171ee
+20230131	15:31:38	INFORMATION	/index	the home page was visited.	21906312-c660-468a-b906-4c6d2d640ea6
+20230131	15:31:38	ERROR	/index.js	a routing error occured for the /index.js route.	63363347-188a-40bc-89f8-2f84f38d7b7d
+20230131	15:32:22	ERROR	/syncPage	a routing error occured for the /syncPage route.	6e1ac05e-bb1c-4c2a-b639-577eae5d3d90
+20230131	15:32:22	ERROR	/index.js	a routing error occured for the /index.js route.	22b86044-15d2-4617-9bdd-6fb2bc0dcaa7
+20230131	15:34:45	ERROR	/	a routing error occured for the / route.	82e507c9-f80d-4221-a1fd-3efeccf5841e
+20230131	15:34:45	ERROR	/index.js	a routing error occured for the /index.js route.	22ec7932-c371-44f2-82d3-41b1b2ce571d
+20230131	15:34:53	ERROR	/	a routing error occured for the / route.	da760683-f362-4cc2-bb42-3816b3331a45
+20230131	15:34:53	ERROR	/index.js	a routing error occured for the /index.js route.	2e74011a-04b8-42bb-9fd1-5ffc2f889374
+20230131	15:34:56	INFORMATION	/description	the description page was visited.	73c86287-d78b-43eb-85f6-a4f98636f1d0
+20230131	15:34:56	ERROR	/index.js	a routing error occured for the /index.js route.	53308c8a-3adb-4da5-a90f-e9e2930605c1
+20230131	15:34:56	ERROR	/audio/HEDGEHOG%20SOUNDS%20-%20Sound%20Effects%20[High%20Quality].mp3	a routing error occured for the /audio/HEDGEHOG%20SOUNDS%20-%20Sound%20Effects%20[High%20Quality].mp3 route.	a2cfad8b-127c-46dc-9e56-1d1e35405e8b
+20230131	15:34:57	INFORMATION	/index	the home page was visited.	911596ea-11c2-48c8-9219-d6c5e4334b30
+20230131	15:34:57	ERROR	/index.js	a routing error occured for the /index.js route.	adfecb68-9d84-4c3d-b5dc-f874c92b0f39
+20230131	15:34:58	INFORMATION	/about	the about page was visited.	029170d9-1326-4af0-bc67-ff8636b8c4d5
+20230131	15:34:59	INFORMATION	/domestication	the domestication page was visited.	b227335b-227a-4c6a-8f65-d1760ce71ba7
+20230131	15:34:59	INFORMATION	/genus	the genus & species page was visited.	1b43ca27-7ea7-4635-9ee8-27d2eaf763cd
+20230131	15:35:03	SUCCESS	sync file mgmt	./views/ReadMeFile.txt file was successfully read.	1cafcf9b-8598-4803-a022-04bbe0e8ecb9
+20230131	15:35:03	SUCCESS	sync file mgmt	./views/WriteMeFile.txt file was successfully written.	d89ed65e-ddae-4c27-9231-16a10bbbaef5
+20230131	15:38:32	INFORMATION	/description	the description page was visited.	c61041fd-1d1c-4747-94c5-19fa5121dd83
+20230131	15:38:32	ERROR	/index.js	a routing error occured for the /index.js route.	6916096f-3561-4ee2-9383-4e21d69d4afc
+20230131	15:38:32	ERROR	/audio/HEDGEHOG%20SOUNDS%20-%20Sound%20Effects%20[High%20Quality].mp3	a routing error occured for the /audio/HEDGEHOG%20SOUNDS%20-%20Sound%20Effects%20[High%20Quality].mp3 route.	da5aad2d-171b-4916-9dc5-bbfb39cf2658
+20230131	15:40:52	INFORMATION	/genus	the genus & species page was visited.	22fa59bb-2a5c-4a7a-87bb-25ed82f29e59
+20230131	15:41:09	INFORMATION	/description	the description page was visited.	b0eb9e37-7a16-42ce-af63-533188cd092a
+20230131	15:41:09	ERROR	/index.js	a routing error occured for the /index.js route.	925b1a2b-d76f-4195-9c0e-9dc00a29c3e8
+20230131	15:41:09	ERROR	/audio/HEDGEHOG%20SOUNDS%20-%20Sound%20Effects%20[High%20Quality].mp3	a routing error occured for the /audio/HEDGEHOG%20SOUNDS%20-%20Sound%20Effects%20[High%20Quality].mp3 route.	d07e676e-ba78-42d4-b87c-2a149f86ce09
+20230131	15:41:48	INFORMATION	/description	the description page was visited.	80173797-5cf4-4597-bd75-9e0e16ee4d9d
+20230131	15:41:48	ERROR	/index.js	a routing error occured for the /index.js route.	faa7eaec-1004-4faa-8fd9-96655b53bd06
+20230131	15:46:52	INFORMATION	/description	the description page was visited.	af15b2e1-4662-4cf7-aa28-76eb0ac9f0de
+20230131	15:46:52	ERROR	/index.js	a routing error occured for the /index.js route.	eb9f9626-fb82-4aec-a445-ccd4cff1e220
+20230131	15:47:09	INFORMATION	/about	the about page was visited.	a9223c1b-1e80-42c5-a488-bd23b1ea5b35
+20230131	15:47:17	INFORMATION	/description	the description page was visited.	ee505b5a-990b-4299-a2b1-9efa423e8058
+20230131	15:47:17	ERROR	/index.js	a routing error occured for the /index.js route.	4ea8f880-4a5d-45d9-86a5-2ae8aa59e529
+20230131	15:47:55	INFORMATION	/description	the description page was visited.	2b3139a7-91c1-4662-99e4-72a4ffb8dbbd
+20230131	15:48:03	INFORMATION	/about	the about page was visited.	66bbbeb0-61b0-4595-8547-9074d070a52a
+20230131	15:48:04	INFORMATION	/domestication	the domestication page was visited.	56b2ceba-9e38-4691-b1c2-35037d95547e
+20230131	15:48:07	INFORMATION	/description	the description page was visited.	d00ef5e0-205d-4f85-96b3-c501fb8a685b
+20230131	15:48:21	SUCCESS	sync file mgmt	./views/ReadMeFile.txt file was successfully read.	f95784c4-e777-46ff-b35f-48a694070f71
+20230131	15:48:21	SUCCESS	sync file mgmt	./views/WriteMeFile.txt file was successfully written.	3a4b8d92-0a3a-41f8-a95d-4f57abed738f
+20230131	15:49:08	SUCCESS	sync file mgmt	./views/ReadMeFile.txt file was successfully read.	7e7f3986-94f8-47e1-97fc-de144df194ca
+20230131	15:49:08	SUCCESS	sync file mgmt	./views/WriteMeFile.txt file was successfully written.	703509b1-c54b-4f04-bc26-cf89c472daa0
+20230131	15:52:10	INFORMATION	/index	the home page was visited.	24872924-de92-405c-91d9-fe89bfdc6182
+20230131	15:52:10	ERROR	/index.js	a routing error occured for the /index.js route.	600f1d63-3272-49cd-9ff5-f480ae63328c
+20230131	15:52:11	INFORMATION	/description	the description page was visited.	a1096cd9-a647-405a-8915-57e776724408
+20230131	15:52:12	INFORMATION	/about	the about page was visited.	248fb57b-1951-4af0-aa2f-1985de5621b7
+20230131	15:52:13	INFORMATION	/domestication	the domestication page was visited.	a0e61a2e-951c-43dd-a9cf-96a542031325
+20230131	15:52:14	INFORMATION	/genus	the genus & species page was visited.	17ab346f-7612-46f2-8e78-adb3c2364fb4
+20230131	16:00:28	ERROR	/	a routing error occured for the / route.	8b8c99f2-950a-4fae-8f8d-294bd91d6a1a
+20230131	16:00:28	ERROR	/index.js	a routing error occured for the /index.js route.	876dceca-b8bd-46d1-82ce-34f6ccd92b6d
+20230131	16:00:33	INFORMATION	/index	the home page was visited.	1649ff31-3a0d-4631-bcf1-acc3cce640d9
+20230131	16:00:33	ERROR	/index.js	a routing error occured for the /index.js route.	07541a49-1048-4daa-935d-311262e7d394
+20230131	16:00:35	INFORMATION	/description	the description page was visited.	67502592-d91f-4e2f-8617-1fb30b803837
+20230131	16:00:36	INFORMATION	/about	the about page was visited.	5a5bc012-9e8c-4dde-be2b-1de5d179fba3
+20230131	16:00:38	INFORMATION	/domestication	the domestication page was visited.	cec1a35c-b5c6-4269-8cd6-44ffd47a4e2c
+20230131	16:00:41	INFORMATION	/genus	the genus & species page was visited.	c1ed8f1b-bf16-455e-8334-fccb5f4de120
+20230131	16:00:42	INFORMATION	/description	the description page was visited.	41395b93-3c5c-460c-9c24-bfbcd4bd198c
+20230131	16:02:25	INFORMATION	/description	the description page was visited.	80fe263d-2481-4384-945a-9b0fc146e25f
+20230131	16:03:36	INFORMATION	/genus	the genus & species page was visited.	03d4d771-1cb2-49df-956f-e11d5cd4895d
+20230131	16:03:37	INFORMATION	/description	the description page was visited.	44e37557-1eaa-4d9a-9002-21c6f5c0911e
+20230131	16:04:25	INFORMATION	/description	the description page was visited.	1dccacb9-6d5c-470b-9558-94b0c016d7a2
+20230131	16:34:41	ERROR	/	a routing error occured for the / route.	8eb7f571-0537-4e5e-9446-ea2845d9351d
+20230131	16:34:41	ERROR	/index.js	a routing error occured for the /index.js route.	5e6d2609-2ff3-4997-ba48-25f4e58e83ed
+20230131	16:34:43	INFO	/index	the Home page was visited.	0da605bd-8405-4426-972f-b155d5f51610
+20230131	16:34:43	ERROR	/index.js	a routing error occured for the /index.js route.	a2673605-a869-4c0a-b723-6a33d91f56bb
+20230131	16:34:54	INFO	/index	the Home page was visited.	3cd9c1ac-9343-4a22-8996-9772ad47b6ff
+20230131	16:34:54	ERROR	/index.js	a routing error occured for the /index.js route.	0431566b-a1b0-4629-b462-b76b95418183
+20230131	16:34:55	INFO	/index	the Home page was visited.	96c544f7-2aeb-4ded-80a0-06c38ca5ae77
+20230131	16:34:55	ERROR	/index.js	a routing error occured for the /index.js route.	013f5d89-e22e-4c5a-bd9d-c85b3f64dcd7
+20230131	16:34:57	INFO	/description	the Description page was visited.	93e61cfc-b11d-4e0e-a357-b4eeb2d5651c
+20230131	16:34:58	INFO	/about	the About page was visited.	d6e45089-95ba-4b03-a538-c2495fa9c985
+20230131	16:34:59	INFO	/domestication	the Domestication page was visited.	5647e81f-d5e8-4ba7-aef4-e9bcc3112a2c
+20230131	16:34:59	INFO	/genus	the Genus & Species page was visited.	f174ea42-57c8-4deb-a258-e04ca092ee84
+20230131	16:35:01	INFO	/index	the Home page was visited.	88550fd4-b9b3-47e6-b28c-b263d3632c0b
+20230131	16:35:02	ERROR	/index.js	a routing error occured for the /index.js route.	0dc16463-e81d-4234-8c2d-aa01add0cdb7
+20230131	16:35:05	ERROR	/	a routing error occured for the / route.	42fac16d-d038-4f64-bcc3-5d904ebe8792
+20230131	16:35:05	ERROR	/index.js	a routing error occured for the /index.js route.	7efa5590-4ba0-4ccf-af3b-14cca23ed72b
+20230131	16:35:40	INFO	/	the Home page was visited.	099fda83-393c-4b42-8494-7ece8e2df8ed
+20230131	16:35:40	ERROR	/index.js	a routing error occured for the /index.js route.	d1fd70a4-5571-4316-bd84-179e1255d666
+20230131	16:35:42	INFO	/	the Home page was visited.	44175230-bf1c-40fb-92f3-9f509b10fc67
+20230131	16:35:42	ERROR	/index.js	a routing error occured for the /index.js route.	609d5c09-930b-494d-84b6-bdb4a8f8cd44
+20230131	16:35:44	ERROR	/index	a routing error occured for the /index route.	e7bcf252-4c4e-48ae-bb5d-4e92887e7745
+20230131	16:35:44	ERROR	/index.js	a routing error occured for the /index.js route.	9cde738a-0073-42cd-9b61-c58073bdbb06
+20230131	16:35:45	INFO	/description	the Description page was visited.	1a1056c7-ddd8-4a0e-9335-5389b0b4a3df
+20230131	16:35:46	INFO	/about	the About page was visited.	6837fe79-3e71-482e-a473-68f7826c0ea6
+20230131	16:35:46	INFO	/domestication	the Domestication page was visited.	d6a73c23-9d97-421b-963d-31260343e1ed
+20230131	16:35:47	INFO	/genus	the Genus & Species page was visited.	97667a86-4205-4784-8a91-cb6da912dcd6
+20230131	16:35:51	ERROR	/index	a routing error occured for the /index route.	552f3006-0ad8-4d31-8adc-ce99154974ec
+20230131	16:35:51	ERROR	/index.js	a routing error occured for the /index.js route.	7ecac857-9024-4c1b-a9ce-fa6966460e3d
+20230131	16:36:51	INFO	/index	the Home page was visited.	0bb1f311-a36d-49a8-9177-3807a5776733
+20230131	16:36:51	ERROR	/index.js	a routing error occured for the /index.js route.	63e22102-10c1-4141-9777-5854f60a569d
+20230131	16:36:52	INFO	/index	the Home page was visited.	22359d45-2b37-494c-9545-90bbca540a99
+20230131	16:36:52	ERROR	/index.js	a routing error occured for the /index.js route.	bec101c1-7028-4a47-9c39-ff083d2fad57
+20230131	16:36:55	INFO	/	the Home page was visited.	6765b0b9-162b-48a7-a353-871e5a088ff1
+20230131	16:36:55	ERROR	/index.js	a routing error occured for the /index.js route.	c1759b88-d96f-470b-b59c-11a15f1b7500
+20230131	16:36:57	INFO	/index	the Home page was visited.	6a0c0582-6578-4501-9c7f-e10473489e26
+20230131	16:36:57	ERROR	/index.js	a routing error occured for the /index.js route.	6e3fd85a-3976-4eed-aa6d-26e03eb98bd8
+20230131	16:36:58	INFO	/description	the Description page was visited.	fc7036cb-6101-46ec-86d9-810524428e5a
+20230131	16:37:02	INFO	/about	the About page was visited.	195cbbed-49a9-4262-b891-60ac158d3271
+20230131	16:37:04	INFO	/domestication	the Domestication page was visited.	5fff0939-320d-4e40-b096-862e2a9ca90d
+20230131	16:37:07	INFO	/genus	the Genus & Species page was visited.	4aa21cf8-2db0-42bb-a689-4bfecd7895ee
+20230131	16:37:13	INFO	/index	the Home page was visited.	2d98bb4e-a41f-47d9-8cbf-986033b62f64
+20230131	16:37:13	ERROR	/index.js	a routing error occured for the /index.js route.	535c6f52-2fb9-4f1a-b441-e69c165e981b
+20230131	16:37:16	INFO	/	the Home page was visited.	335b042a-85bf-4272-a4e8-3901d737282d
+20230131	16:37:16	ERROR	/index.js	a routing error occured for the /index.js route.	d1050441-19fb-4320-bd47-b4c16f045a19
+20230131	16:37:19	INFO	/index	the Home page was visited.	78a12d98-cd32-452f-b8a7-f77aab7a2e71
+20230131	16:37:19	ERROR	/index.js	a routing error occured for the /index.js route.	475775d9-4238-4205-94cb-bb5b4323ea86
+20230131	16:37:19	INFO	/description	the Description page was visited.	6086758d-b28b-428d-a307-eb849d07cf1f
+20230131	16:37:20	INFO	/index	the Home page was visited.	3cb5c81b-9653-473d-a2c0-6c42bf0f602f
+20230131	16:37:20	ERROR	/index.js	a routing error occured for the /index.js route.	a753348b-f768-4dcd-b0a6-572cd58ad1d7
+20230131	16:37:26	INFO	/description	the Description page was visited.	686496c0-3949-4809-8b65-c040343874e7
+20230131	16:37:27	INFO	/about	the About page was visited.	15ed5585-7079-4cc2-9b54-08bb18ad89ce
+20230131	16:37:28	INFO	/domestication	the Domestication page was visited.	00eaa081-21db-4eb4-b555-94c818ccdb11
+20230131	16:37:29	INFO	/genus	the Genus & Species page was visited.	f1341917-1e2f-4243-859a-0f24ca25f67f
+20230131	16:38:13	ERROR	/synchronous	a routing error occured for the /synchronous route.	6fbef5da-2c82-4541-bfb1-849cb19f391f
+20230131	16:38:13	ERROR	/index.js	a routing error occured for the /index.js route.	434a3b71-2ce3-4add-9a12-4beec3268451
+20230131	16:38:24	SUCCESS	sync file mgmt	./views/ReadMeFile.txt file was successfully read.	b2b96c5f-203b-4ec1-814a-6bc607858ae5
+20230131	16:38:24	SUCCESS	sync file mgmt	./views/WriteMeFile.txt file was successfully written.	dad670fa-dcc0-4101-959b-1d96b35db788
+20230131	16:43:01	ERROR	/synchronous	a routing error occured for the /synchronous route.	0893f496-0a17-4d4f-a4bd-da3532ba4ef2
+20230131	16:43:01	ERROR	/index.js	a routing error occured for the /index.js route.	e7c5c523-a538-4f72-bc7c-5a7ecad31c66
+20230131	16:43:03	INFO	/index	the Home page was visited.	53163c3a-eb9b-4381-9565-9f0ed2432744
+20230131	16:43:03	ERROR	/index.js	a routing error occured for the /index.js route.	3085622d-c51b-4117-8221-0aba6ec09e55
+20230131	16:43:04	INFO	/description	the Description page was visited.	36da7e90-f70e-486a-8e4e-e0c7851684ce
+20230131	16:43:05	INFO	/about	the About page was visited.	106cf7c3-1067-481e-9128-6366c5858552
+20230131	16:43:06	INFO	/domestication	the Domestication page was visited.	322cba51-11f5-42ab-90da-5f3db78b874c
+20230131	16:43:07	INFO	/genus	the Genus & Species page was visited.	83ade932-5120-4480-8b59-96711b07cc25
+20230131	16:43:10	INFO	/index	the Home page was visited.	14e9e552-9405-4225-b352-b63590cd777f
+20230131	16:43:10	ERROR	/index.js	a routing error occured for the /index.js route.	2d9bf06c-238e-4bf7-b266-38adaadecd04
+20230131	16:43:13	INFO	/description	the Description page was visited.	798bd862-5e7a-416d-8b6d-f4d71f53de1b
+20230131	16:43:35	SUCCESS	sync file mgmt	./views/ReadMeFile.txt file was successfully read.	53958341-99c6-4c96-b786-108aafb3d0c7
+20230131	16:43:35	SUCCESS	sync file mgmt	./views/WriteMeFile.txt file was successfully written.	b3ed967a-409f-4cf5-881a-2c28382c20e5
+20230131	16:44:21	INFO	/	the Home page was visited.	98cf937b-dcf3-4ec4-9aeb-dadbaa853a25
+20230131	16:44:21	ERROR	/index.js	a routing error occured for the /index.js route.	ef5f9fe2-56fa-4c4c-ad61-c63f9cef5f1a
+20230131	16:45:05	INFO	/	the Home page was visited.	920cea46-da48-40e4-bc10-a0972222a2fe
+20230131	16:45:12	INFO	/description	the Description page was visited.	6de80681-4e7f-4531-9849-2af01bf1543a
+20230131	16:45:16	INFO	/about	the About page was visited.	bbd087e7-02eb-4599-a801-e8fd6dfd5685
+20230131	16:45:21	INFO	/domestication	the Domestication page was visited.	7f135561-0717-4d51-8a4b-f985c0e1d921
+20230131	16:45:26	INFO	/genus	the Genus & Species page was visited.	423811fd-8e84-4a2f-84a0-a210810852c9
+20230131	16:45:34	INFO	/index	the Home page was visited.	d0be1f4c-56bb-4d6a-8b2c-06206f62a1c0
+20230131	16:45:41	SUCCESS	sync file mgmt	./views/ReadMeFile.txt file was successfully read.	aeaaf9c0-2f79-4e21-8607-0ffee3c17b2f
+20230131	16:45:41	SUCCESS	sync file mgmt	./views/WriteMeFile.txt file was successfully written.	d6d7ce50-0d08-4267-87c0-34221fbc32a7
+20230131	16:45:51	ERROR	/404	a routing error occured for the /404 route.	2f195c01-23e7-4f3f-8e15-25369fcb602b
+20230131	16:45:51	ERROR	/index.js	a routing error occured for the /index.js route.	ac9b3494-699a-4f0b-a4f2-89929d0990b6
+20230131	16:46:33	ERROR	/404	a routing error occured for the /404 route.	834239cf-c517-43f4-b48d-b0784905d7c7
+20230131	16:46:42	INFO	/description	the Description page was visited.	b1407084-2e31-48cc-a5d0-58fb05375333
+20230131	16:46:50	ERROR	/synccc	a routing error occured for the /synccc route.	90505ef6-c6bf-4f7e-ac20-b911c274c77d
